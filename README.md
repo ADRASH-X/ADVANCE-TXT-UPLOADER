@@ -1,12 +1,12 @@
 <h1 align="center">
-  🇮🇳 ᴛᴜsʜᴀʀ ᴛxᴛ ᴜᴘʟᴏᴀᴅᴇʀ 🇮🇳
+  🇮🇳 ᴛxᴛ ᴜᴘʟᴏᴀᴅᴇʀ 🇮🇳
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Txt+Uploader+Bot+!)
 
 ## 😎 Credit
 
-🥳 Credit Goes To [Tushar](https://t.me/Tushar0125)
+🥳 Credit Goes To HM
 
   
 ## 🔥 Commands
@@ -26,8 +26,7 @@
 
 ## ✅ Pw Without Purchase Txt Extractor Bot
 
-🥳 Pw Without Purchase Txt Extractor Bot [Click Here](https://t.me/PwTxtExtractorBot)
- 
+🥳 Pw Without Purchase Txt Extractor Bot 
 
 ## Guide For Heroku Deployment 
 
